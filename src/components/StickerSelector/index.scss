@@ -1,0 +1,3 @@
+.sticker-selector { display: flex; flex-wrap: wrap; gap: 16rpx; }
+.sticker-chip { width: 72rpx; height: 72rpx; line-height: 72rpx; border-radius: 24rpx; background: #fff; text-align: center; font-size: 36rpx; box-shadow: 0 8rpx 18rpx rgba(143,130,147,.1); }
+.sticker-chip--active { background: #fff0c9; transform: scale(1.04); }

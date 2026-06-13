@@ -1,0 +1,7 @@
+.template-title { display: block; margin-top: 8rpx; color: #4f4354; font-size: 42rpx; font-weight: 800; }
+.template-subtitle { display: block; margin-top: 12rpx; color: #8f8293; font-size: 28rpx; }
+.template-list { display: flex; flex-direction: column; gap: 24rpx; margin-top: 34rpx; }
+.template-card { position: relative; min-height: 170rpx; padding: 32rpx; border-radius: 34rpx; box-shadow: 0 16rpx 34rpx rgba(143,130,147,.14); box-sizing: border-box; }
+.template-card__name { display: block; color: #4f4354; font-size: 34rpx; font-weight: 800; }
+.template-card__desc { display: block; margin-top: 14rpx; color: #695d6d; font-size: 27rpx; }
+.template-card__stickers { position: absolute; right: 28rpx; bottom: 24rpx; display: flex; gap: 12rpx; font-size: 40rpx; }
