@@ -1,0 +1,12 @@
+.editor-page { height: 100vh; background: linear-gradient(180deg, #fff7fb 0%, #fffaf4 100%); }
+.editor-inner { padding: 28rpx 28rpx 60rpx; }
+.editor-panel { display: flex; flex-direction: column; gap: 18rpx; margin-top: 34rpx; padding: 28rpx; border-radius: 34rpx; background: rgba(255,255,255,.88); box-shadow: 0 16rpx 34rpx rgba(143,130,147,.12); }
+.editor-label { margin-top: 10rpx; color: #4f4354; font-size: 28rpx; font-weight: 700; }
+.editor-input, .editor-textarea { box-sizing: border-box; width: 100%; border-radius: 24rpx; background: #fffaf4; color: #4f4354; font-size: 28rpx; }
+.editor-input { height: 78rpx; padding: 0 24rpx; }
+.editor-textarea { min-height: 180rpx; padding: 22rpx 24rpx; }
+.color-list { display: flex; gap: 18rpx; }
+.color-dot { width: 62rpx; height: 62rpx; border: 6rpx solid #fff; border-radius: 50%; box-shadow: 0 8rpx 18rpx rgba(143,130,147,.12); }
+.color-dot--active { outline: 4rpx solid #ec7fa9; }
+.editor-image-button { height: 78rpx; line-height: 78rpx; margin-top: 12rpx; border-radius: 999rpx; background: #f6f2ff; color: #8a70d6; font-size: 28rpx; }
+.editor-save { margin-top: 12rpx; }

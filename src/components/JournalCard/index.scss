@@ -1,0 +1,7 @@
+.journal-card { position: relative; padding: 28rpx; border-radius: 30rpx; box-shadow: 0 14rpx 30rpx rgba(143,130,147,.14); overflow: hidden; }
+.journal-card__header { display: flex; align-items: center; justify-content: space-between; gap: 20rpx; }
+.journal-card__title { color: #4f4354; font-size: 32rpx; font-weight: 700; }
+.journal-card__mood { padding: 8rpx 18rpx; border-radius: 999rpx; background: rgba(255,255,255,.7); color: #ec7fa9; font-size: 24rpx; }
+.journal-card__date { display: block; margin-top: 10rpx; color: #9b8e9e; font-size: 24rpx; }
+.journal-card__content { display: -webkit-box; margin-top: 18rpx; color: #695d6d; font-size: 27rpx; line-height: 1.55; overflow: hidden; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.journal-card__delete { position: absolute; right: 22rpx; bottom: 20rpx; width: 112rpx; height: 56rpx; line-height: 56rpx; border-radius: 999rpx; background: rgba(255,255,255,.72); color: #d96f92; font-size: 24rpx; }

@@ -1,0 +1,7 @@
+.home-banner { display: flex; flex-direction: column; gap: 16rpx; margin-bottom: 32rpx; padding: 42rpx 34rpx; border-radius: 40rpx; background: linear-gradient(135deg, #ffe3ed, #f4edff); box-shadow: 0 18rpx 42rpx rgba(236,127,169,.16); }
+.home-banner__eyebrow { color: #ec7fa9; font-size: 24rpx; font-weight: 700; letter-spacing: 2rpx; }
+.home-banner__title { color: #4f4354; font-size: 46rpx; font-weight: 800; }
+.home-banner__desc { color: #766a7a; font-size: 28rpx; line-height: 1.55; }
+.home-shortcuts { display: grid; grid-template-columns: 1fr 1fr; gap: 20rpx; margin-top: 24rpx; }
+.home-shortcuts__button { height: 82rpx; line-height: 82rpx; border-radius: 28rpx; background: rgba(255,255,255,.86); color: #ec7fa9; font-size: 28rpx; box-shadow: 0 10rpx 24rpx rgba(143,130,147,.1); }
+.home-list { display: flex; flex-direction: column; gap: 22rpx; }
