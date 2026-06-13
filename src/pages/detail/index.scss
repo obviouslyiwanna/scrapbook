@@ -1,0 +1,5 @@
+.detail-title { display: block; margin-bottom: 24rpx; color: #4f4354; font-size: 42rpx; font-weight: 800; }
+.detail-actions { display: flex; gap: 18rpx; margin-top: 30rpx; }
+.detail-edit, .detail-delete { flex: 1; height: 82rpx; line-height: 82rpx; border-radius: 999rpx; font-size: 27rpx; }
+.detail-edit { background: #f6f2ff; color: #8a70d6; }
+.detail-delete { background: #ffe3ed; color: #d96f92; }
